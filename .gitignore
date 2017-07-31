@@ -1,0 +1,4 @@
+.tscache
+.baseDir.ts
+node_modules
+.idea
